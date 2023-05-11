@@ -1,6 +1,4 @@
 # Java_BinarySearchTree_Implementation
-A Binary Search tree having the following methods : insert() / isEmpty() / find(long key) / delete(long key) / getSuccessor(Node delNode) / findMin(Max)Value() / height()/size()/bool containsNonBST(int item)/toString()/toArrayList()/displayBinaryTree()/displayInOrder(Node localRoot)/displayPreOrder(Node localRoot)/displayPostOrder(Node localRoot)
-
 Introduction
 Write java code to create "Student" class that contain name, ID, and numeric grade attributes. You may use the ID or the grade as a key. You may add more attributes when necessary (e,g student object when creating binary trees).  Your program must define a java
 application (main method to test your work). Your program must be able to count the number of comparisons and. Swaps in each algorithm. As a testing data you may enter about 20 students' data. The evaluation of the projects will focus on free of errors running programs.
